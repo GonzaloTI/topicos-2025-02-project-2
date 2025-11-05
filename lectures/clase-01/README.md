@@ -53,4 +53,4 @@ Protege datos sensibles, comunícale al usuario que habla con IA, documenta cual
 - Documentación oficial del provider que selecciones.
 
 ## Próxima sesión
-Clase 2: Recuperación aumentada (RAG) y embeddings para dar respuestas basadas en catálogo.
+Clase 2: Backend base y primer prompt (estructura del proyecto y primer `/chat`).
