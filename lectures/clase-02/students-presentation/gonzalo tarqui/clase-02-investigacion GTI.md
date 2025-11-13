@@ -20,7 +20,7 @@ Se utilizan las siguientes librerías de Python:
 * **requests:** Para otras peticiones API.
 * **cloudinary:** Opcional para guardar las imagenes generadas.
 
-
+     git remote add upstream https://github.com/bjvta/topicos-2025-02-project-2
 ---
 
 ## 💡 Concepto Clave: ¿Qué es una API?
